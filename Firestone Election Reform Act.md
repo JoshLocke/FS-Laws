@@ -51,7 +51,8 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 **§5 DEFINITIONS**
 
 &nbsp;&nbsp;&nbsp; (a) "State of Firestone Group" shall be defined as this ROBLOX group: https://www.roblox.com/groups/2803360/State-of-Firestone#!/about
-&nbsp;&nbsp;&nbsp; (a) "The Department of Justice" shall be defined as this ROBLOX group: https://www.roblox.com/groups/2803369/Firestone-Department-of-Justice#!/about
+
+&nbsp;&nbsp;&nbsp; (b) "The Department of Justice" shall be defined as this ROBLOX group: https://www.roblox.com/groups/2803369/Firestone-Department-of-Justice#!/about
 
 
 <br/>
