@@ -143,7 +143,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
  
 &nbsp;&nbsp;&nbsp; (c) If an investigation continues longer than seventy-two hours (72) the official shall be permitted to take office and officially be sworn in.
 
-&nbsp;&nbsp;&nbsp; (d) If the offical is found to be guilty of an election violation as defined in Section 10 of this Act, they shall vacate the office, and the runner up shall take the office
+&nbsp;&nbsp;&nbsp; (d) If the offical is found to be guilty of an election violation as defined in Section 9 of this Act, they shall vacate the office, and the runner up shall take the office
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) If the official is found guilty, the runner up shall be allowed to serve the full term, starting from the date of the conclusion of the original election.
 
