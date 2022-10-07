@@ -54,6 +54,9 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) "The Department of Justice" shall be defined as this ROBLOX group: https://www.roblox.com/groups/2803369/Firestone-Department-of-Justice#!/about
 
+&nbsp;&nbsp;&nbsp; (c) "The Criminal Code Revision Act" shall be defined as: https://trello.com/b/EGN3OQzQ/firestone-criminal-code
+
+
 
 <br/>
 
@@ -133,8 +136,11 @@ election results.
 &nbsp;&nbsp;&nbsp; (a) The following acts shall be considered election violations and shall result in the forfiture of the office if found guilty by the Office of the Attorney General:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Creating alternate (alt) accounts to vote or support in an election
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Defaming a candidate or election sponsor
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Targeting or defaming other candidates voters or supports
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Violating any statute as listed in the Criminal Code Revision Act
 
 <br/>      
@@ -146,6 +152,7 @@ election results.
 &nbsp;&nbsp;&nbsp; (a) The following acts shall be reasons for votes to be removed from the count:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Voters must be ranked "Middle Class Citizen" or higher in the State of Firestone Group. If a user leaves the group before the conclusion of the voting period, that vote shall no longer be used in the count.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The vote came from an alternate account
 
 <br/>      
