@@ -121,9 +121,18 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 <br/>
 
-**§____. CANDIDATE REQUIREMENTS** 
+**§8. CANDIDATE REQUIREMENTS** 
 
-&nbsp;&nbsp;&nbsp; (a) 
+&nbsp;&nbsp;&nbsp; (a) A candidate running for office must meet the following requirements: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Must be a citizen of the State of Firestone
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Must have no current criminal record
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Must have no current criminal record, but citations are permited
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Must not be an alternate (alt) account
+
 
 <br/>
 
@@ -135,7 +144,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 <br/>
 
-**§8. ELECTION INVESTIGATIONS HOW TAKEN** 
+**§9. ELECTION INVESTIGATIONS HOW TAKEN** 
 
 &nbsp;&nbsp;&nbsp; (a) Should the results of an election be called in to question, an investigaion can be lanuched within twenty-four (24) hours after the results are released. Any investigation in to the results shall be handled by the Department of Justice, who shall appoint a Special Counsel to oversee the investigaion.
 
@@ -153,7 +162,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 <br/>
 
-**§9. ELECTION CANDIDATE VIOLATIONS** 
+**§10. ELECTION CANDIDATE VIOLATIONS** 
 
 &nbsp;&nbsp;&nbsp; (a) The following acts shall be considered election violations and shall result in the forfiture of the office/election if found guilty by the Office of the Attorney General or the Election Sponsor:
 
@@ -169,7 +178,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 <br/>
 
-**§10. VOTING REGULATIONS** 
+**§11. VOTING REGULATIONS** 
 
 &nbsp;&nbsp;&nbsp; (a) The following acts shall be reasons for votes to be removed from the count:
 
@@ -184,7 +193,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 <br/>
 
-**§10. CAMPAIGNING REGULATIONS** 
+**§12. CAMPAIGNING REGULATIONS** 
 
 &nbsp;&nbsp;&nbsp; (a) When an election campaigning period is to open, the elction sponsor must make a post on the State of Firestone forums, detailing the elction guidelines and schedule
 
