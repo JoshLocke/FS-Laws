@@ -56,17 +56,17 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (c) "The Criminal Code Revision Act" shall be defined as: https://trello.com/b/EGN3OQzQ/firestone-criminal-code
 
-&nbsp;&nbsp;&nbsp; (c) "Runner up" shall be defined as the user who had the second highest vote count in the sponsored election.
+&nbsp;&nbsp;&nbsp; (d) "Runner up" shall be defined as the user who had the second highest vote count in the sponsored election.
 
-&nbsp;&nbsp;&nbsp; (d) "Instant-Runoff Voting (IRV)" shall be defined as a voting system that uses ranking to determine one ticket/seat up for grabs in an election.
+&nbsp;&nbsp;&nbsp; (e) "Instant-Runoff Voting (IRV)" shall be defined as a voting system that uses ranking to determine one ticket/seat up for grabs in an election.
 
-&nbsp;&nbsp;&nbsp; (d) "Single Transferable Vote (STV")" will be defined as a voting system that uses ranking to determine many seats up for grabs in an election.
+&nbsp;&nbsp;&nbsp; (f) "Single Transferable Vote (STV")" will be defined as a voting system that uses ranking to determine many seats up for grabs in an election.
 
-&nbsp;&nbsp;&nbsp; (e) "The First Past the Post (FPTP)" shall be defined as a voting system that gives each person one vote, and the candidate who receives a plurality of the votes wins.
+&nbsp;&nbsp;&nbsp; (g) "The First Past the Post (FPTP)" shall be defined as a voting system that gives each person one vote, and the candidate who receives a plurality of the votes wins.
 
-&nbsp;&nbsp;&nbsp; (f) "Plurality" shall be defined as: The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority.
+&nbsp;&nbsp;&nbsp; (h) "Plurality" shall be defined as: The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority.
 
-&nbsp;&nbsp;&nbsp; (f) "The State of Firestone Forums" and "Forums" shall be defined as: https://forums.stateoffirestone.com
+&nbsp;&nbsp;&nbsp; (i) "The State of Firestone Forums" and "Forums" shall be defined as: https://forums.stateoffirestone.com
 
 <br/>
 
@@ -205,7 +205,7 @@ next choice, if any. If there are no more choices on the ballot, the ballot will
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) A user may not bribe another user to support or vote for them, as defined by Criminal Code Revision Act §12 Chapter 6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) A user may not bribe another user to support or vote for them, as defined by Criminal Code Revision Act §12 Chapter 6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) A user may not slander or defame another candidate in their campaign.
 
 <br/>    
 ---
