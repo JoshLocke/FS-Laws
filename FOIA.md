@@ -79,7 +79,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The name of the citizen requesting the information
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) A means of contacting the citizen requesting the information (ex. Discord ID tag)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) A means of contacting the citizen requesting the information which must either be by the use of Discord, ROBLOX Private Messages, or the State of Firestone Forums website.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) What information is being requested 
 
