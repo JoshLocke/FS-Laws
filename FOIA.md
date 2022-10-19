@@ -39,8 +39,6 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-<br/>
-
 **§4. ENFORCEMENT**
 
 &nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by the Firestone Courts and the Executive Branch.
@@ -157,7 +155,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-**§8. ENTITY CLERK OF RECORDS** 
+**§8. ENTITY REGISTER OF RECORDS** 
 
 &nbsp;&nbsp;&nbsp; (a) All relevant entities must maintain a register of all requests received.
 
