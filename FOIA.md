@@ -4,9 +4,9 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>O<small>ctober</small> 18, 2022</p>
+<p>O<small>ctober</small> 19, 2022</p>
 
-Mr. JoshLocke (for himself,) introduced the following Act:
+Mr. JoshLocke (for himself) introduced the following Act:
 
 ---
 
@@ -43,11 +43,25 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 **§4. ENFORCEMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by any relevant parties.
+&nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by the Firestone Courts and the Executive Branch.
 
 
 <br/>
 
+<br/>
+
+
+**§5. DEFINITIONS**
+
+&nbsp;&nbsp;&nbsp; (a) "Entities" as mentioned throughout this act shall be defined as the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Any departments within the State of Firestone and Stapleton County.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Offices of any governmental officials within the State of Firestone and Stapleton County
+
+
+
+<br/>
 
 **§5. REQUESTS HOW TAKEN**
 
@@ -85,7 +99,7 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) a decision within thirty (30) days of receiving a valid request.
 
-&nbsp;&nbsp;&nbsp; (b) If the requesting party can not be contacted via the contact information listed on the request within fifteen (15) days the request may be discarded.  
+&nbsp;&nbsp;&nbsp; (b) If the requesting party cannot be contacted via the contact information listed on the request within fifteen (15) days the request may be discarded.  
 
 &nbsp;&nbsp;&nbsp; (c) A receipt of information shall include:
 
@@ -139,9 +153,7 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Information where its secrecy is required for an active examination or assessment process;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) information which would bring undue personal harm or embarassment to a specific individual, unrelated to the execution of official duties;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Information which if released would defeat a legitimate protocol designed to ensure security or safety or prevent misconduct or crime.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Information which if released would defeat a legitimate protocol designed to ensure security or safety or prevent misconduct or crime.
 
 <br/>
 
