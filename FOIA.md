@@ -119,10 +119,29 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 **§7. ELIGIBILITY OF INFORMATION** 
 
-&nbsp;&nbsp;&nbsp; (a) All relevant entities are required to maintain a clerk of records to facilitate all records requests.
+&nbsp;&nbsp;&nbsp; (a) Information designated by law as publicly available or declassified is always eligible for request.
 
-&nbsp;&nbsp;&nbsp;(a) All relevant entities are required to maintain a clerk of records to facilitate all records requests.
+&nbsp;&nbsp;&nbsp; (b) The following information is not subjec to this act and may not be requested:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Lawfully classified information;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Information that is designated by law as confidential or otherwise exempt from release;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Information covered by attorney-client privilege;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Information that is not held by the entity;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) Any passphrase, code, invite link or similar, the release of which would defeat its purpose;
+
+&nbsp;&nbsp;&nbsp; (c) The following information is not eligible if its collection and disclosure would be more likely to be harmful than beneficial, considering the interests of all parties: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) information where its secrecy serves legitimate law enforcement interests
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Information where its secrecy is required for an active examination or assessment process;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) information which would bring undue personal harm or embarassment to a specific individual, unrelated to the execution of official duties;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Information which if released would defeat a legitimate protocol designed to ensure security or safety or prevent misconduct or crime.
 
 <br/>
 
@@ -137,4 +156,3 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 
 <br/>    
----
