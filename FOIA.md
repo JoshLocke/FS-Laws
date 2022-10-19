@@ -151,7 +151,7 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) This register must also include any receipts, late notices, and decisions sent by the entity.
 
-&nbsp;&nbsp;&nbsp; (b) This register shall be publicly available.
+&nbsp;&nbsp;&nbsp; (c) This register shall be publicly available.
 
 
 
