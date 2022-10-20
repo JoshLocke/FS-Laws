@@ -57,6 +57,12 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Offices of any governmental officials within the State of Firestone and Stapleton County
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Any municipal departments within the cities of the State of Firestone
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Offices of any municipal officials within the cities of the State of Firestone
+
+
+
 
 
 <br/>
@@ -157,11 +163,11 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 **§8. ENTITY REGISTER OF RECORDS** 
 
-&nbsp;&nbsp;&nbsp; (a) All relevant entities should maintain a register of all requests received.
+&nbsp;&nbsp;&nbsp; (a) All relevant entities may maintain a register of all requests received.
 
-&nbsp;&nbsp;&nbsp; (b) This register should also include any receipts, late notices, and decisions sent by the entity.
+&nbsp;&nbsp;&nbsp; (b) This register may also include any receipts, late notices, and decisions sent by the entity.
 
-&nbsp;&nbsp;&nbsp; (c) This register should be publicly available.
+&nbsp;&nbsp;&nbsp; (c) This register may be publicly available.
 
 
 
