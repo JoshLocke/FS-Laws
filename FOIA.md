@@ -63,6 +63,10 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) The Board of Legal Examiners and Ethics;
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) The Firestone Election Commission;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vii) The Securities Exchange Commission;
+
 
 
 
