@@ -167,7 +167,7 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 &nbsp;&nbsp;&nbsp; (b) This register may also include any receipts, late notices, and decisions sent by the entity.
 
-&nbsp;&nbsp;&nbsp; (c) This register may be publicly available.
+&nbsp;&nbsp;&nbsp; (c) This register if implemented shall be publicly available.
 
 
 
