@@ -133,7 +133,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) Information designated by law as publicly available or declassified is always eligible for request.
 
-&nbsp;&nbsp;&nbsp; (b) The following information is not subjec to this act and may not be requested:
+&nbsp;&nbsp;&nbsp; (b) The following information is not subject to this act and may not be requested:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Lawfully classified information;
 
@@ -157,11 +157,11 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§8. ENTITY REGISTER OF RECORDS** 
 
-&nbsp;&nbsp;&nbsp; (a) All relevant entities must maintain a register of all requests received.
+&nbsp;&nbsp;&nbsp; (a) All relevant entities should maintain a register of all requests received.
 
-&nbsp;&nbsp;&nbsp; (b) This register must also include any receipts, late notices, and decisions sent by the entity.
+&nbsp;&nbsp;&nbsp; (b) This register should also include any receipts, late notices, and decisions sent by the entity.
 
-&nbsp;&nbsp;&nbsp; (c) This register shall be publicly available.
+&nbsp;&nbsp;&nbsp; (c) This register should be publicly available.
 
 
 
