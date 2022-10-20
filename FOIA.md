@@ -53,17 +53,16 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 &nbsp;&nbsp;&nbsp; (a) "Entities" as mentioned throughout this act shall be defined as the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Any departments within the State of Firestone and Stapleton County.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The Governor and their own autonomous office;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Offices of any governmental officials, as well as any entire governmental branch as a whole within the State of Firestone and Stapleton County
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The executive administrations of Stapleton County and any inferior governments, including but not limited to the County Executive and their office, and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Any municipal departments within the cities of the State of Firestone
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) All departments and academies of the State of Firestone, Stapleton County, and any inferior governments;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Offices of any municipal officials within the cities of the State of Firestone
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) The Board of Rehabilitation and Employment of Criminals;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) The executive, legislative, and judical branches as a whole.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) The Board of Legal Examiners and Ethics;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) The Firestone Firearms Commission 
 
 
 
