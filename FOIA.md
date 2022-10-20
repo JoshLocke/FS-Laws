@@ -67,7 +67,7 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 <br/>
 
-**§5. REQUESTS HOW TAKEN**
+**§6. REQUESTS HOW TAKEN**
 
 &nbsp;&nbsp;&nbsp; (a) Any citizen may request any information from any entity subject to this Act.
 
@@ -93,7 +93,7 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 <br/>
 
-**§6. REQUESTS HOW RECIEVED**
+**§7. REQUESTS HOW RECIEVED**
 
 &nbsp;&nbsp;&nbsp; (a) Relevant entities must provide response to the requesting party following these guidlines:
 
@@ -135,7 +135,7 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 <br/>
 
-**§7. ELIGIBILITY OF INFORMATION** 
+**§8. ELIGIBILITY OF INFORMATION** 
 
 &nbsp;&nbsp;&nbsp; (a) Information designated by law as publicly available or declassified is always eligible for request.
 
@@ -161,7 +161,7 @@ Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the f
 
 <br/>
 
-**§8. ENTITY REGISTER OF RECORDS** 
+**§9. ENTITY REGISTER OF RECORDS** 
 
 &nbsp;&nbsp;&nbsp; (a) All relevant entities may maintain a register of all requests received.
 
