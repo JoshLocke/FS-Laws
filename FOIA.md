@@ -6,7 +6,7 @@
 
 <p>O<small>ctober</small> 19, 2022</p>
 
-Mr. JoshLocke (for himself) introduced the following Act:
+Mr. JoshLocke (for himself, Mr. KAREEM2610, Mr. FrostExspresso) introduced the following Act:
 
 ---
 
