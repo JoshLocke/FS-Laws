@@ -66,12 +66,11 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) To add an initiave to the ballot;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) To petition the executive branch to investigate one of it's subordinatesl;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) To request a statement on a specific topic by a government official;
 
 &nbsp;&nbsp;&nbsp; (d) For a petition to be considered valid, it must meet the following criteria:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition is available publicly on the State of Firestone Forums
-
 
 &nbsp;&nbsp;&nbsp; (e) Any petitions not in accordance with the guidelines in this section is to be considered invalid.
 
@@ -91,11 +90,11 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) The following parties are subject to the statutes listed herein this act
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The State of Firestone Executive Branch
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The Governor and their own autonomous office;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The State of Firestone Congress
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The executive administrations of Stapleton County and any inferior governments, including but not limited to the County Executive and their office;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The State of Firestone Judiciary 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) All members of The State of Firestone Judiciary 
 
 
 <br/>    
