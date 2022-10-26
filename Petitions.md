@@ -56,7 +56,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-**§5. PETITIONS HOW TAKEN**
+**§6. PETITIONS HOW TAKEN**
 
 &nbsp;&nbsp;&nbsp; (a) Any citizen of the State of Firestone may create a petition at any time.
 
@@ -76,7 +76,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-**§6. PETITIONS WHEN RECOGNIZED**
+**§7. PETITIONS WHEN RECOGNIZED**
 
 &nbsp;&nbsp;&nbsp; (a) The party being addressed within the petition must respond to the petition when the following critera have been met:
 
@@ -86,7 +86,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-**§7. PARTIES SUBJECT TO THIS ACT** 
+**§8. PARTIES SUBJECT TO THIS ACT** 
 
 &nbsp;&nbsp;&nbsp; (a) The following parties are subject to the statutes listed herein this act
 
