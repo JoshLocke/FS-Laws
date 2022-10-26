@@ -58,13 +58,13 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§5. PETITIONS HOW TAKEN**
 
-&nbsp;&nbsp;&nbsp; (a) Any citizen of the State of Firestone may create a peition at any time.
+&nbsp;&nbsp;&nbsp; (a) Any citizen of the State of Firestone may create a petition at any time.
 
 &nbsp;&nbsp;&nbsp; (b) Petitions may be used for the following reasons:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) To request that a bill or act be placed on the docket by either house of Congress;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) To add an initiave to the ballot;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) To add an initiative to the ballot;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) To request a statement on a specific topic by a government official;
 
@@ -80,7 +80,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) The party being addressed within the petition must respond to the petition when the following critera have been met:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached twenty (20) signaures on the forums; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached twenty (20) signatures on the forums; 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The petition is following all regulations as set out in Section 5 of this act; 
 
