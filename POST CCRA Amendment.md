@@ -22,7 +22,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§1 SHORT TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This Act may be cited as the “Petitions Act of 2022" 
+&nbsp;&nbsp;&nbsp; (a) This Act may be cited as the “POST Campus Tresspassing Amendment" 
 
 <br/>
 
