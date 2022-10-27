@@ -4,7 +4,7 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>O<small>ctober</small> 19, 2022</p>
+<p>O<small>ctober</small> 27, 2022</p>
 
 Mr. JoshLocke (for himself) introduced the following Act:
 
