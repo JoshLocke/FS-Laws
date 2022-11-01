@@ -58,6 +58,6 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (c) This bar shall remain effective indefinitely.
 
-&nbsp;&nbsp;&nbsp; (d) This bar shall also include any alternate accounts of DyingSym.
+&nbsp;&nbsp;&nbsp; (d) This bar shall also include any alternate accounts of FSOriginalPizza.
 
 <br/>    
