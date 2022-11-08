@@ -31,7 +31,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§2 ENACTMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon FSOriginalPizza no longer holding any position enumerated in Section 3 of the Employment Act of 2022 as well as the completion of the constitutionally required processes.
 
 <br/>
 
@@ -48,13 +48,11 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) Evidence/Reasoning regarding the aforementioned by Section 4a shall be enumerated below
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The representitive's long history of immaturity. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Ineptitude
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) Repeated and ongoing toxicity.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) Inactivity
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) Harrassment of our Secretary of State
 
 &nbsp;&nbsp;&nbsp; (c) This bar shall remain effective indefinitely.
 
