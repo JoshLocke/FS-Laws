@@ -4,9 +4,9 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>O<small>ctober</small> 27, 2022</p>
+<p>N<small>ovember</small> 09, 2022</p>
 
-Mr. JoshLocke (for himself) introduced the following Resolution:
+Mr. JoshLocke (for himself and Mr. Noobsiance) introduced the following Resolution:
 
 ---
 
@@ -41,21 +41,18 @@ Mr. JoshLocke (for himself) introduced the following Resolution:
 
 **§4. ENFORCEMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Act shall be enforced by all relevant parties.
+&nbsp;&nbsp;&nbsp; (a) This legislation shall be enforced by the Lieutenant Governor and President pro tempore of the State of Firestone.
 
 <br/>
 
 **§5. EXPELLMENT**
 
-&nbsp;&nbsp;&nbsp; WHEREAS, Senator dannybec has consistently been immature on the floor of the Senate chamber during active sesions
+&nbsp;&nbsp;&nbsp; (a) dannybec shall be expelled from the Senate of the State of Firestone for violating the oath of impartiality
 
-&nbsp;&nbsp;&nbsp; WHEREAS, Senator dannybec has consistently refused to even read or consider legislation before announcing that he is voting nay.
+&nbsp;&nbsp;&nbsp; (b) The evidence for the afformentioned shall be listed below:
 
-&nbsp;&nbsp;&nbsp; WHEREAS, Senator dannybec has yet to propose any legislation since his original election to the office.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) https://gyazo.com/c4ed3272531675475c5305ed71222346 - dannybec co-sponsoring the House resolution for impeachment
 
-&nbsp;&nbsp;&nbsp; WHEREAS, Senator dannybec has consipired to delay proceedings by waiting until quourm is established, then leaving the session to force adjournment.
-
-&nbsp;&nbsp;&nbsp; WHEREAS, We have a constitutional oath to uphold, and obligation to rid congress of those who are wilfully impeding congressional proceedings.
 
 </br>
 
