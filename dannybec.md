@@ -53,6 +53,9 @@ Mr. JoshLocke (for himself and Mr. Noobsiance) introduced the following Resoluti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) https://gyazo.com/c4ed3272531675475c5305ed71222346 - dannybec co-sponsoring the House resolution for impeachment
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) https://gyazo.com/5e9b188457dc50cb905365838bebba8e - Representitive Jackfruitism's message addressing senators in the State Legislature discord.
+
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) https://gyazo.com/5ef0258e2fec0315258e5218f5b341f4 - Senator dannybec's response to Representative Jackfruitism's message.
 
 </br>
 
