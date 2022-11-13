@@ -4,9 +4,9 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>O<small>ctober</small> 19, 2022</p>
+<p>N<small>ovember</small> 00, 2022</p>
 
-Mr. JoshLocke (for himself) introduced the following Act:
+Mr. JoshLocke (for himself, Mr. Noobsiance, Mr. OliverSteph) introduced the following Act:
 
 ---
 
@@ -46,8 +46,6 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <br/>
 
-<br/>
-
 
 **§5. DEFINITIONS**
 
@@ -62,7 +60,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) Petitions may be used for the following reasons:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) To request that a bill or act be placed on the docket by either house of Congress;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) To submit a bill/act for consideration by the presiding officer of either chamber of Congress;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) To add an initiative to the ballot;
 
@@ -80,9 +78,17 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) The party being addressed within the petition must respond to the petition when the following critera have been met:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached twenty (20) signatures on the forums; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached fifty (50) valid signatures on the forums; 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The petition is following all regulations as set out in Section 6 of this act; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The petition is following all regulations as set fortth in Section 6 of this act; 
+
+&nbsp;&nbsp;&nbsp; (b) For a signature to be valid, it must meet the following requirements:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Signatures may not be added using an alternate account
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) One (1) signature per-person, per-petition is allowed
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The signature was not made under duress or through bribery
 
 <br/>
 
@@ -95,6 +101,8 @@ Mr. JoshLocke (for himself) introduced the following Act:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The executive administrations of Stapleton County and any inferior governments, including but not limited to the County Executive and their office;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) All members of The State of Firestone Judiciary 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) All members of the State of Firestone State Legislature
 
 
 <br/>    
