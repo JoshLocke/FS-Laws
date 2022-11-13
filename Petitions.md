@@ -78,7 +78,7 @@ Mr. JoshLocke (for himself, Mr. Noobsiance, Mr. OliverSteph) introduced the foll
 
 &nbsp;&nbsp;&nbsp; (a) The party being addressed within the petition must respond to the petition when the following critera have been met:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached fifty (50) valid signatures on the forums; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The petition has reached fifty (70) valid signatures on the forums; 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The petition is following all regulations as set fortth in Section 6 of this act; 
 
