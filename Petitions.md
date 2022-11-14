@@ -88,7 +88,7 @@ Mr. JoshLocke (for himself, Mr. Noobsiance, Mr. OliverSteph) introduced the foll
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) One (1) signature per-person, per-petition is allowed
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The signature was not made under duress or through bribery
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The signature was not made under duress or as a result of bribery
 
 <br/>
 
