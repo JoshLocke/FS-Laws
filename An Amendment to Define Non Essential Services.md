@@ -52,8 +52,8 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 &nbsp;&nbsp;&nbsp; (b) Article IV Section I Subsection IV shall state: 
 "Non-essential services shall be defined as:
-*Firestone Department of Public Works
-*Firestone Department of Transportation
-*Firestone Department of Boating and Waterways
-*Firestone Department of Aviation"
+* Firestone Department of Public Works
+* Firestone Department of Transportation
+* Firestone Department of Boating and Waterways
+* Firestone Department of Aviation"
 
