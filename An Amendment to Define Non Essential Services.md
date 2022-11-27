@@ -10,7 +10,7 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 ---
 
-<h1><b>AN AMENDMENT</b></h1>
+<h1><b>AN BILL</b></h1>
 
 **To define non-essential services as set out in C.IV.I.II**
 
@@ -22,7 +22,7 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 **§1 SHORT TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This amendment shall be known, and may be cited as, “To define non-essential services”.
+&nbsp;&nbsp;&nbsp; (a) This act shall be known, and may be cited as, “To define non-essential services”.
 
 <br/>
 
@@ -46,12 +46,10 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 <br/>
 
-**§5 An Amendment to C.IV.I.II**
+**§5 ESTABLISHMENT OF NON-ESSENTIAL DEPARTMENTS**
 
-&nbsp;&nbsp;&nbsp; (a) Article IV Section I Subsection IV shall be added to the State of Firestone Constitution
+&nbsp;&nbsp;&nbsp; (a) Non-essential services as set out in the State of Firestone Constitution shall be defined as: 
 
-&nbsp;&nbsp;&nbsp; (b) Article IV Section I Subsection IV shall state: 
-"Non-essential services shall be defined as:
 * Firestone Department of Public Works
 * Firestone Department of Transportation
 * Firestone Department of Boating and Waterways
