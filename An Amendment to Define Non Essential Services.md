@@ -6,11 +6,11 @@
 
 <p>N<small>ovember</small> 00, 2022</p>
 
-Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
+Mr. JoshLocke (for himself, Mr.) introduced the following act:
 
 ---
 
-<h1><b>AN BILL</b></h1>
+<h1><b>AN ACT</b></h1>
 
 **To define non-essential services as set out in C.IV.I.II**
 
@@ -28,7 +28,7 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 **§2 ENACTMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This amendment shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This act shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
 
 <br/>
 
@@ -41,7 +41,7 @@ Mr. JoshLocke (for himself, Mr.) introduced the following Amendment:
 
 **§4. ENFORCEMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This resolution shall be enforced by any relevant parties.
+&nbsp;&nbsp;&nbsp; (a) This act shall be enforced by any relevant parties.
 
 
 <br/>
