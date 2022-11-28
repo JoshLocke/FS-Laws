@@ -4,7 +4,7 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>N<small>ovember</small> 00, 2022</p>
+<p>N<small>ovember</small> 28, 2022</p>
 
 Mr. JoshLocke (for himself, Mr.) introduced the following act:
 
@@ -22,7 +22,7 @@ Mr. JoshLocke (for himself, Mr.) introduced the following act:
 
 **§1 SHORT TITLE**
 
-&nbsp;&nbsp;&nbsp; (a) This act shall be known, and may be cited as, “To define non-essential services”.
+&nbsp;&nbsp;&nbsp; (a) This act shall be known, and may be cited as, “An act to define non-essential services”.
 
 <br/>
 
