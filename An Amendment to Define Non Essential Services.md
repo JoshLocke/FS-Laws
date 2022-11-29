@@ -54,4 +54,8 @@ Mr. JoshLocke (for himself, Mr.) introduced the following act:
 * Firestone Department of Transportation
 * Firestone Department of Boating and Waterways
 * Firestone Department of Aviation
+* Firestone Park Service
+* Firestone Department of Commerce
+* Stapleton County Port Authority
 
+&nbsp;&nbsp;&nbsp; (b) During a State of Emergency, the Governor may suspend all or some operations from the aforementioned departments listed in Section 5(a).
