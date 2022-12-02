@@ -59,6 +59,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 &nbsp;&nbsp;&nbsp; (b) Chapter 6, Section 20 shall state:
 
 "(a) Illegally Removing Records shall be recognized as an unlawful criminal offense within the State of Firestone. 
+
 (a1) Illegally Removing Records shall be the act of a person clearing a record without a lawful expungement having been granted"
 
 &nbsp;&nbsp;&nbsp; (c) Chapter 6, Section 20 of the Firestone Criminal Code shall be classed as a Class A Felony and shall be labled as a "COURTS ONLY" offense. Any person found to be in violation of Chapter 6, Section 20 of the Firestone Criminal Code shall, upon conviction in a court of law, be subject to the penalties prescribed for a Class A Felony.
