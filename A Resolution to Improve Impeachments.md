@@ -28,7 +28,7 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 **§2 ENACTMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This resolution shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This resolution shall only go into effect upon the passage of, “The 2022 Improved Impeachments Resolution”
 
 <br/>
 
@@ -78,7 +78,7 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 &nbsp;&nbsp;&nbsp; (a) All impeachment trials shall be governed as follows: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The President Pro Tempore shall administer the Oath of Impartiality as defined in §6()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The President Pro Tempore shall administer the Oath of Impartiality as defined in §6(c)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) All senators shall take the oath of impartiality as outlined in §6(c)
 
