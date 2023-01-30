@@ -6,7 +6,7 @@
 
 <p>J<small>anuary</small> 29, 2023</p>
 
-Mr. JoshLocke (for himself) introduced the following Act:
+Mr. JoshLocke (for himself, Mr Jackfruitism, Mr CarlosCarmine, Mr FrostEspresso, Mr. L_3ee) introduced the following Act:
 
 ---
 
@@ -31,7 +31,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§2 ENACTMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon killingkoas no longer holding any position enumerated in Section 3 of the Employment Act of 2022 as well as the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon killingkoas no longer holding any position enumerated in Sections 3,4,5,6,7 and 8 of the Employment Act of 2022 as well as the completion of the constitutionally required processes.
 
 <br/>
 
@@ -44,7 +44,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§4. BAR**
 
-&nbsp;&nbsp;&nbsp; (a) As empowered upon Congress by C.I.IV.V and other appropriate legislation, killingkoas shall be barred from serving in any position as stated in Section 3 of the Employment Act of 2022. Reason for said bar being misconduct in a public office.
+&nbsp;&nbsp;&nbsp; (a) As empowered upon Congress by C.I.IV.V and other appropriate legislation, killingkoas shall be barred from serving in any position as stated in Sections 3,4,5,6,7 and 8 of the Employment Act of 2022. Reason for said bar being misconduct in a public office.
 
 &nbsp;&nbsp;&nbsp; (b) Evidence/Reasoning regarding the aforementioned by Section 4a shall be enumerated below
 
