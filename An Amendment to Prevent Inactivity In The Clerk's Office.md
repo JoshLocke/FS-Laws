@@ -4,7 +4,7 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>F<small>ebruary</small> 2, 2023</p>
+<p>F<small>ebruary</small> 3, 2023</p>
 
 Mr. JoshLocke (for himself) introduced the following Amendment:
 
