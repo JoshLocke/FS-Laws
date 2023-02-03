@@ -12,7 +12,7 @@ Mr. JoshLocke (for himself) introduced the following Resoultion:
 
 <h1><b>AN RESOLUTION</b></h1>
 
-**To vacate the office of PPT**
+**To vacate the office of Clerk of The Senate**
 
 </div>
 
@@ -24,12 +24,15 @@ Mr. JoshLocke (for himself) introduced the following Resoultion:
 
 &nbsp;&nbsp;&nbsp; (a) "BraddahLL" shall be defined as https://www.roblox.com/users/1316117079/profile
 
+&nbsp;&nbsp;&nbsp; (b) "A Joint Resolution To Regulate The Appointment and Duty of The Clerks" shall be defined as https://forums.stateoffirestone.com/t/a-joint-resolution-to-regulate-the-appointment-and-duty-of-the-clerks-of-congress/19080
+
+
 
 <br/>
 
 **§2 ENACTMENT**
 
-&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Act of Congress upon the completion of the constitutionally required processes.
+&nbsp;&nbsp;&nbsp; (a) This Bill shall go into effect as an Senate Resolution upon the completion of the constitutionally required processes.
 
 <br/>
 
@@ -42,10 +45,10 @@ Mr. JoshLocke (for himself) introduced the following Resoultion:
 
 **§4. REMOVAL**
 
-&nbsp;&nbsp;&nbsp; (a) As empowered upon Congress by C.I.IV.V and other appropriate legislation, BraddahLL shall be expelled from the office of Clerk of the Senate.
+&nbsp;&nbsp;&nbsp; (a) As empowered upon Congress by A Joint Resolution To Regulate The Appointment and Duty of The Clerks Section VI, BraddahLL shall be removed from the office of Clerk of the Senate.
 
 &nbsp;&nbsp;&nbsp; (b) Evidence/Reasoning regarding the aforementioned by Section 4a shall be enumerated below
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) WHEREAS, BraddahLL has failed to uphold the duties outlined in Senate Standing Rules Sec II-1.1.1 for a considerable amount of time
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) WHEREAS, BraddahLL has failed to uphold the duties outlined in Senate Standing Rules Sec II-1.1.1, and the afformentioned Joint Resolution for a considerable amount of time
 
 <br/>    
