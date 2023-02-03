@@ -6,7 +6,7 @@
 
 <p>F<small>ebruary</small> 2, 2023</p>
 
-Mr. JoshLocke (for himself, Mr. Stamose) introduced the following Amendment:
+Mr. JoshLocke (for himself) introduced the following Amendment:
 
 ---
 
