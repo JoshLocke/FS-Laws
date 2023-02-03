@@ -69,5 +69,5 @@ Mr. JoshLocke (for himself) introduced the following Amendment:
 
 &nbsp;&nbsp;&nbsp; (d) Section VI of "A Joint Resolution to Regulate the Appointment and Duty of the Clerks of Congress" shall now state:
 
-**“The Clerk of the House may be removed at any time by the Speaker of The House, or with a simple majority vote of the Senate“**
+**“The Clerk of the House may be removed at any time by the Speaker of The House, or with a simple majority vote of the House“**
 
