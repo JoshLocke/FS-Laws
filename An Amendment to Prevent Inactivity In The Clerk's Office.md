@@ -12,7 +12,7 @@ Mr. JoshLocke (for himself, Mr. Stamose) introduced the following Amendment:
 
 <h1><b>AN AMENDMENT</b></h1>
 
-**An Amendment to Prevent Inactivity In The Clerk's Officek**
+**An Amendment to Prevent Inactivity In The Clerk's Office**
 
 </div>
 
