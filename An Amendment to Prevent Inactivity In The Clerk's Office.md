@@ -4,15 +4,15 @@
 
 <h2><b>IN THE SENATE OF THE STATE OF FIRESTONE</b></h2>
 
-<p>F<small>ebruary</small> 02, 2022</p>
+<p>F<small>ebruary</small> 3, 2023</p>
 
-Mr. JoshLocke (for himself, Mr. Stamose) introduced the following Amendment:
+Mr. JoshLocke (for himself) introduced the following Amendment:
 
 ---
 
 <h1><b>AN AMENDMENT</b></h1>
 
-**An Amendment to Prevent Inactivity In The Clerk's Officek**
+**An Amendment to Prevent Inactivity In The Clerk's Office**
 
 </div>
 
@@ -61,7 +61,7 @@ Mr. JoshLocke (for himself, Mr. Stamose) introduced the following Amendment:
 
 &nbsp;&nbsp;&nbsp; (b) Section VII of "A Joint Resolution to Regulate the Appointment and Duty of the Clerks of Congress" shall now state:
 
-**“The Clerk of the Senate may be removed at any time by the President of The Senate, or with a simple majority vote of the Senate“**
+“The Clerk of the Senate may be removed **at any time by the President of The Senate, or** with a simple majority vote of the Senate“
 
 &nbsp;&nbsp;&nbsp; (c) Section VI of "A Joint Resolution to Regulate the Appointment and Duty of the Clerks of Congress" currently states:
 
@@ -69,5 +69,5 @@ Mr. JoshLocke (for himself, Mr. Stamose) introduced the following Amendment:
 
 &nbsp;&nbsp;&nbsp; (d) Section VI of "A Joint Resolution to Regulate the Appointment and Duty of the Clerks of Congress" shall now state:
 
-**“The Clerk of the House may be removed at any time by the Speaker of The House, or with a simple majority vote of the Senate“**
+“The Clerk of the House may be removed **at any time by the Speaker of The House, or** with a simple majority vote of the House“
 
