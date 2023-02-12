@@ -14,7 +14,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 <h1><b>AN ACT</b></h1>
 
-**To**
+**To allow for the establishment of Select Committees within Congress**
 
 </div>
 
