@@ -6,7 +6,9 @@
 
 <p>F<small>ebruary</small> 11, 2023</p>
 
-Mr. JoshLocke (for himself, Mr. Clonemep) introduced the following Act:
+(Credits to Clonemep & Jackfruitism for the original form of this act)
+
+Mr. JoshLocke (for himself) introduced the following Act:
 
 ---
 
@@ -53,25 +55,33 @@ Mr. JoshLocke (for himself, Mr. Clonemep) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (d) "Firestone Criminal Code" or "Criminal Code" shall be defined as LINK
 
+&nbsp;&nbsp;&nbsp; (e) A ‘Select Committee’ shall be defined as a committee established by and regulated within the scope of this Act.
+
 <br/>
 
 **§6 ESTABLISHMENT OF SELECT COMMITTEES**
 
-&nbsp;&nbsp;&nbsp; (a)  A ‘Select Committee’ shall be defined as a committee established by and regulated within the scope of this Act.
+&nbsp;&nbsp;&nbsp; (a) Congress shall be permitted to establish Select Committees in response to certain incidents, issues, or other matters which require the attention of Congress, within the scope and provisions of this Act. Select Committees may only be established for investigating misconduct, corruption, or criminal activity when it cannot be (or has been unreasonably) handled by the executive and/or judicial branches. This purpose must be stated in the establishing resolution, and a select committee may not exceed its purpose. The purpose of a select committee may be amended by a joint resolution.
 
-&nbsp;&nbsp;&nbsp; (b) Congress shall be permitted to establish Select Committees in response to certain incidents, issues, or other matters which require the attention of Congress, within the scope and provisions of this Act. Select Committees may only be established for investigating misconduct, corruption, or criminal activity when it cannot be (or has been unreasonably) handled by the executive and/or judicial branches. This purpose must be stated in the establishing resolution, and a select committee may not exceed its purpose. The purpose of a select committee may be amended by a joint resolution.
+&nbsp;&nbsp;&nbsp; (b) Select Committees shall be established through the passing of a joint resolution of Congress. This joint resolution shall be herein refered to as "The Charter". 
 
-&nbsp;&nbsp;&nbsp; (c) Select Committees shall be established through the passing of a joint resolution of Congress. This aforementioned joint resolution shall state the purpose of the Select Committee.
+&nbsp;&nbsp;&nbsp; (c) The Charter shall be required to list the following things
 
-&nbsp;&nbsp;&nbsp; (d) Select Committees may be provisionally established with an official letter to the public with the approval of a Congressional Presiding Officer and at least one member of both the House of Representatives and the Senate. The afformentioned letter should state the purpose for establishing the Select Committee and should be issued prior to the joint resoultion passing Congress.Select Committees provisionally established shall immediately start operations and be filled with membership pursuant to § 7 of this act. Members added during this time shall remain after the passing of the joint resolution establishing the Select Committee. The provisionally established Select Committee shall suspend operations after seven (7) days if the joint resolution to establish the Select Committee has still not yet passed by both houses of Congress. If the joint resolution establishing the Select Committee fails Congress, the Select Committee shall be abolished and may not be provisionally authorized again.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) The reasoning for establishing the Select Committee
 
-&nbsp;&nbsp;&nbsp; (e) All Select Committees shall cease all operations thirty (30) days subsequent to their establishment; if the Select Committee is provisionally established, that time shall count towards the thirty (30) days, except for when suspended. A Select Committee’s time may be extended by an additional thirty (30) days upon the passage of a joint resolution of Congress; a Select Committee’s time may never exceed sixty (60) days. Should a select committee expire but a joint resolution to extend a select committee has been proposed to Congress (and is not tabled), then that select committee may continue operating either until such a vote completes or until fifteen (15) days pass after expiration.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The listing/designation of the Chairperson of the committee
 
-&nbsp;&nbsp;&nbsp; (f) A Select Committee shall be permitted to voluntarily cease all operations with a supermajority (⅔) vote of the Select Committee’s membership. This may not be reversed, except for by a joint resolution in Congress.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The establishment of a set of general standing rules. The congressperson establishing the committee may choose to designate the standing rules of either chamber of Congress as those of the Select Committee by simply stating it in the Charter.  
 
-&nbsp;&nbsp;&nbsp; (g)  The operations of a Select Committee shall be able to be suspended through the passing of a joint resolution of Congress.
+&nbsp;&nbsp;&nbsp; (c) Select Committees may be provisionally established with an official letter to the public with the approval of a Congressional Presiding Officer and at least one member of both the House of Representatives and the Senate. The afformentioned letter should state the purpose for establishing the Select Committee and should be issued prior to the joint resoultion passing Congress. Select Committees provisionally established shall immediately start operations and be filled with membership pursuant to § 7 of this act. Members added during this time shall remain after the passing of the joint resolution establishing the Select Committee. The provisionally established Select Committee shall suspend operations after seven (7) days if the joint resolution to establish the Select Committee has still not yet passed by both houses of Congress. If the joint resolution establishing the Select Committee fails Congress, the Select Committee shall be abolished and may not be provisionally authorized again.
 
-&nbsp;&nbsp;&nbsp; (h) A provisionally established Select Committee may be forced to suspend all operations if the Congressional Presiding Officer who authorized the Select Committee deems it necessary, with justification.
+&nbsp;&nbsp;&nbsp; (d) All Select Committees shall cease all operations thirty (30) days subsequent to their establishment; if the Select Committee is provisionally established, that time shall count towards the thirty (30) days, except for when suspended. A Select Committee’s time may be extended by an additional thirty (30) days upon the passage of a joint resolution of Congress; a Select Committee’s time may never exceed sixty (60) days. Should a select committee expire but a joint resolution to extend a select committee has been proposed to Congress (and is not tabled), then that select committee may continue operating either until such a vote completes or until fifteen (15) days pass after expiration.
+
+&nbsp;&nbsp;&nbsp; (e) A Select Committee shall be permitted to voluntarily cease all operations with a supermajority (⅔) vote of the Select Committee’s membership. This may not be reversed, except for by a joint resolution in Congress.
+
+&nbsp;&nbsp;&nbsp; (f) The operations of a Select Committee shall be able to be suspended through the passing of a joint resolution of Congress.
+
+&nbsp;&nbsp;&nbsp; (g) A provisionally established Select Committee may be forced to suspend all operations if the Congressional Presiding Officer who authorized the Select Committee deems it necessary, with justification.
 
 **§7 Membership of Select Committees**
 
@@ -83,9 +93,9 @@ Mr. JoshLocke (for himself, Mr. Clonemep) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (d) Any Select Committee established shall be headed by the member of Congress who proposed the establishment of the committee. The head of the Select Committee shall be referred to as the ‘Chairperson’ of the Select Committee in question.
 
-&nbsp;&nbsp;&nbsp; (e) Measures for the selection of a Chairperson – who is not the individual who proposed the establishment of the select committee – may be implemented in the establishing resolution. No individual shall be the chairperson of a Select Committee if they are not (or cease to be) a sitting congressperson or are (or become) a Congressional Presiding Officer.
+&nbsp;&nbsp;&nbsp; (e) Measures for the selection of a Chairperson – who is not the individual who proposed the establishment of the select committee – may be implemented in the establishing Charter. No individual shall be the chairperson of a Select Committee if they are not (or cease to be) a sitting congressperson or are (or become) a Congressional Presiding Officer.
 
-&nbsp;&nbsp;&nbsp; (f) The number of members of a Select Committee may be restricted by its establishing joint resolution; however, Select Committees shall not exceed greater than six (6) members. The chairperson shall be included and count toward the membership limit.
+&nbsp;&nbsp;&nbsp; (f) The number of members of a Select Committee may be restricted by its establishing Charter; however, Select Committees shall not exceed greater than six (6) members. The chairperson shall be included and count toward the membership limit.
 
 **§8 Proceedings of Select Committees**
 
@@ -119,4 +129,22 @@ Mr. JoshLocke (for himself, Mr. Clonemep) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (e) Individuals present at a Select Committee proceeding for the purpose of being questioned must be sworn to honesty before an officer of the Firestone Government. Violation of this oath shall be considered Perjury as outlined in the Firestone Criminal Code
 
-&nbsp;&nbsp;&nbsp; (f) It shall be Contempt of Congress to dishonestly answer any question pertinent to the Select Committee’s official purpose, except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law (i.e. classification statutes); or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
+&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be considered Contempt of Congress as outlined in the Firestone Criminal Code. Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law (i.e. classification statutes); or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
+
+**§10 Information Provided or Surrendered to a Select Committee**
+
+&nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to request any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
+
+&nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, it shall be Contempt of Congress for any person to knowingly redact or alter any information ordered by a Select Committee.
+
+&nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the ordered information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members wether or not to honor the request.
+
+&nbsp;&nbsp;&nbsp; (d) A department, agency, or other governmental body head or the Governor may - within the scope of the law - volunteer classified information to a Select Committee. This information must remain classified and may only be distributed beyond the Select Committee if there is a lawful reason and within the scope of the law.
+
+&nbsp;&nbsp;&nbsp; (e) Any whistleblower who confidentially provides classified information to a Select Committee, where the information reasonably shows a criminal offense relevant to the Select Committee’s purpose has been committed, and who clearly indicates to the members that the information is in fact classified and that they are providing it as a whistleblower, shall be protected from both liability (civil and/or criminal) and disciplinary action (in any way) so long as they acted reasonably and with a good faith belief that the information provided shows a crime has been committed. It shall be unlawful for any person to retaliate against a whistleblower who provides information to a Select Committee.
+
+&nbsp;&nbsp;&nbsp; (f) A whistleblower must have attempted to report the offense to the Governor or the Attorney General prior to disclosing the information to a Select Committee. However, this is not necessary if it can be reasonably shown that there was or would have been a threat of retaliation against the whistleblower or his associates and acquaintances.
+
+&nbsp;&nbsp;&nbsp; (g) Classified information, provided voluntarily or by a whistleblower, must remain classified (unless declassified by law) and cannot be distributed beyond the select committee’s membership except for where permitted by state law.
+
+&nbsp;&nbsp;&nbsp; (h) Whereas the Select Committee is reviewing, considering, accessing, or discussing information, details, etc. which are classified, the proceeding must be closed and may not be visible to any individual outside of the select committee (unless, in a closed proceeding, the select committee is questioning or discussing with an individual who is lawfully authorized to access the information or is an individual that has surrendered the pertinent classified information to the committee)
