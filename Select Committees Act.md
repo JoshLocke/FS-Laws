@@ -127,7 +127,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (e) Individuals present at a Select Committee proceeding for the purpose of being questioned must be sworn to honesty before an officer of the Firestone Government. Violation of this oath shall be shall be punished as set by relevant law.
 
-&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law.Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law (i.e. classification statutes); or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
+&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law. Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law; or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
 
 **§10 Information Provided or Surrendered to a Select Committee**
 
