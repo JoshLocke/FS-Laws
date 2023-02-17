@@ -49,13 +49,11 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) "Presiding Officer(s)" shall be defined as the Speaker of the House, President of the Senate, Speaker Pro Tempore, and President Pro Tempore 
 
-&nbsp;&nbsp;&nbsp; (b) "Chariperson" shall be defined as the congressperson appointed to oversee proceedings of the Select Committee.
+&nbsp;&nbsp;&nbsp; (b) "Chairperson" shall be defined as the congressperson appointed to oversee proceedings of the Select Committee.
 
 &nbsp;&nbsp;&nbsp; (c) "Officer of the Firestone Government" shall be defined as any persons who are employed by a government agency of the State of Firestone.
 
-&nbsp;&nbsp;&nbsp; (d) "Firestone Criminal Code" or "Criminal Code" shall be defined as LINK
-
-&nbsp;&nbsp;&nbsp; (e) A ‘Select Committee’ shall be defined as a committee established by and regulated within the scope of this Act.
+&nbsp;&nbsp;&nbsp; (d) A ‘Select Committee’ shall be defined as a committee established by and regulated within the scope of this Act.
 
 <br/>
 
@@ -63,7 +61,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) Congress shall be permitted to establish Select Committees in response to certain incidents, issues, or other matters which require the attention of Congress, within the scope and provisions of this Act. Select Committees may only be established for investigating misconduct, corruption, or criminal activity when it cannot be (or has been unreasonably) handled by the executive and/or judicial branches. This purpose must be stated in the establishing resolution, and a select committee may not exceed its purpose. The purpose of a select committee may be amended by a joint resolution.
 
-&nbsp;&nbsp;&nbsp; (b) Select Committees shall be established through the passing of a joint resolution of Congress. This joint resolution shall be herein refered to as "The Charter". 
+&nbsp;&nbsp;&nbsp; (b) Select Committees shall be established through the passing of a joint resolution of Congress. This joint resolution shall be herein referred to as "The Charter". 
 
 &nbsp;&nbsp;&nbsp; (c) The Charter shall be required to list the following things
 
@@ -73,7 +71,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The establishment of a set of general standing rules. The congressperson establishing the committee may choose to designate the standing rules of either chamber of Congress as those of the Select Committee by simply stating it in the Charter.  
 
-&nbsp;&nbsp;&nbsp; (c) Select Committees may be provisionally established with an official letter to the public with the approval of a Congressional Presiding Officer and at least one member of both the House of Representatives and the Senate. The afformentioned letter should state the purpose for establishing the Select Committee and should be issued prior to the joint resoultion passing Congress. Select Committees provisionally established shall immediately start operations and be filled with membership pursuant to § 7 of this act. Members added during this time shall remain after the passing of the joint resolution establishing the Select Committee. The provisionally established Select Committee shall suspend operations after seven (7) days if the joint resolution to establish the Select Committee has still not yet passed by both houses of Congress. If the joint resolution establishing the Select Committee fails Congress, the Select Committee shall be abolished and may not be provisionally authorized again.
+&nbsp;&nbsp;&nbsp; (c) Select Committees may be provisionally established with an official letter to the public with the approval of a Congressional Presiding Officer and at least one member of both the House of Representatives and the Senate. The aforementioned letter should state the purpose for establishing the Select Committee and should be issued prior to the joint resolution passing Congress. Select Committees provisionally established shall immediately start operations and be filled with membership pursuant to § 7 of this act. Members added during this time shall remain after the passing of the joint resolution establishing the Select Committee. The provisionally established Select Committee shall suspend operations after seven (7) days if the joint resolution to establish the Select Committee has still not yet passed by both houses of Congress. If the joint resolution establishing the Select Committee fails Congress, the Select Committee shall be abolished and may not be provisionally authorized again.
 
 &nbsp;&nbsp;&nbsp; (d) All Select Committees shall cease all operations thirty (30) days subsequent to their establishment; if the Select Committee is provisionally established, that time shall count towards the thirty (30) days, except for when suspended. A Select Committee’s time may be extended by an additional thirty (30) days upon the passage of a joint resolution of Congress; a Select Committee’s time may never exceed sixty (60) days. Should a select committee expire but a joint resolution to extend a select committee has been proposed to Congress (and is not tabled), then that select committee may continue operating either until such a vote completes or until fifteen (15) days pass after expiration.
 
@@ -115,7 +113,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (e)  For a ‘supermajority’ to be met, ⅔ of the Ayes and Nays cast must be voting in affirmation of the Motion. 
 
-&nbsp;&nbsp;&nbsp; (f) The Select Committee shall have the authority to establish, amend, and/or repeal standing rules for the Select Committee with a simple majority vote. These standing rules may establish additional voting procedures, rules of conduct, etc. that regulate or limit the scope of the Select Committee or the authority of the Chapirperson, except for restraining any power granted to the Select Committee or Presiding Officer by this Act.
+&nbsp;&nbsp;&nbsp; (f) The Select Committee shall have the authority to establish, amend, and/or repeal standing rules for the Select Committee with a simple majority vote. These standing rules may establish additional voting procedures, rules of conduct, etc. that regulate or limit the scope of the Select Committee or the authority of the Chairperson, except for restraining any power granted to the Select Committee or Presiding Officer by this Act.
 
 **§9 Requests to Appear Before a Select Committee**
 
@@ -127,15 +125,15 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (d) No individual may have their attendance mandated by a request to appear.
 
-&nbsp;&nbsp;&nbsp; (e) Individuals present at a Select Committee proceeding for the purpose of being questioned must be sworn to honesty before an officer of the Firestone Government. Violation of this oath shall be considered Perjury as outlined in the Firestone Criminal Code
+&nbsp;&nbsp;&nbsp; (e) Individuals present at a Select Committee proceeding for the purpose of being questioned must be sworn to honesty before an officer of the Firestone Government. Violation of this oath shall be shall be punished as set by relevant law.
 
-&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be considered Contempt of Congress as outlined in the Firestone Criminal Code. Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law (i.e. classification statutes); or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
+&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law.Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law (i.e. classification statutes); or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
 
 **§10 Information Provided or Surrendered to a Select Committee**
 
 &nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to request any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
 
-&nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, it shall be Contempt of Congress for any person to knowingly redact or alter any information ordered by a Select Committee.
+&nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, any person knowingly redacting or altering any information ordered by a Select Committee shall be punished as set by relevant law.
 
 &nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the ordered information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members wether or not to honor the request.
 
