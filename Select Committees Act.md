@@ -127,7 +127,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (e) Individuals present at a Select Committee proceeding for the purpose of being questioned must be sworn to honesty before an officer of the Firestone Government. Violation of this oath shall be shall be punished as set by relevant law.
 
-&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law. Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law; or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions in proceedings.
+&nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law. Except for questions that: would infringe on the individual’s constitutional rights, such as the right against self-incrimination; where answering the question could breach another state law; or where answering the question would violate privilege afforded by state law. Only members of the Select Committee may ask questions towards the individual testifying before the committee in proceedings.
 
 **§10 Information Provided or Surrendered to a Select Committee**
 
@@ -135,7 +135,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, any person knowingly redacting or altering any information ordered by a Select Committee shall be punished as set by relevant law.
 
-&nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the ordered information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members wether or not to honor the request.
+&nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the ordered information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members whether or not to honor the request.
 
 &nbsp;&nbsp;&nbsp; (d) A department, agency, or other governmental body head or the Governor may - within the scope of the law - volunteer classified information to a Select Committee. This information must remain classified and may only be distributed beyond the Select Committee if there is a lawful reason and within the scope of the law.
 
