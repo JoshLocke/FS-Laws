@@ -51,7 +51,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (b) "Chairperson" shall be defined as the congressperson appointed to oversee proceedings of the Select Committee.
 
-&nbsp;&nbsp;&nbsp; (c) "Officer of the Firestone Government" shall be defined as any persons who are employed by a government agency of the State of Firestone.
+&nbsp;&nbsp;&nbsp; (c) "Officer of the Firestone Government" for the purposes of this Act shall be defined as any persons who are employed by a government agency of the State of Firestone.
 
 &nbsp;&nbsp;&nbsp; (d) A ‘Select Committee’ shall be defined as a committee established by and regulated within the scope of this Act.
 
