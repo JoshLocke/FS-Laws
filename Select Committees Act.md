@@ -143,6 +143,6 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (f) A whistleblower must have attempted to report the offense to the Governor or the Attorney General prior to disclosing the information to a Select Committee. However, this is not necessary if it can be reasonably shown that there was or would have been a threat of retaliation against the whistleblower or his associates and acquaintances.
 
-&nbsp;&nbsp;&nbsp; (g) Classified information, provided voluntarily or by a whistleblower, must remain classified (unless declassified by law) and cannot be distributed beyond the select committee’s membership except for where permitted by state law.
+&nbsp;&nbsp;&nbsp; (g) Classified information, provided voluntarily or by a whistleblower, cannot be distributed beyond the select committee’s membership unless declassified by relevant authorities.
 
 &nbsp;&nbsp;&nbsp; (h) Whereas the Select Committee is reviewing, considering, accessing, or discussing information, details, etc. which are classified, the proceeding must be closed and may not be visible to any individual outside of the select committee (unless, in a closed proceeding, the select committee is questioning or discussing with an individual who is lawfully authorized to access the information or is an individual that has surrendered the pertinent classified information to the committee)
