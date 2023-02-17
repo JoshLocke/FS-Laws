@@ -47,7 +47,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 **§5. DEFINITIONS**
 
-&nbsp;&nbsp;&nbsp; (a) "Presiding Officer(s)" shall be defined as the Speaker of the House, President of the Senate, Speaker Pro Tempore, and President pro Tempore 
+&nbsp;&nbsp;&nbsp; (a) "Presiding Officer(s)" shall be defined as the Speaker of the House, President of the Senate, Speaker pro tempore, and President pro tempore 
 
 &nbsp;&nbsp;&nbsp; (b) "Chairperson" shall be defined as the congressperson appointed to oversee proceedings of the Select Committee.
 
@@ -85,7 +85,7 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (a) Upon the establishment of a Select Committee, any sitting member of congress may be permitted to run for a position on the Select Committee. The Congressional Presiding Officers shall be prohibited from holding any position within a Select Committee. Should a member of a Select Committee become a Congressional Presiding Officer, said person shall be removed from any Select Committee of which they are a member. 
 
-&nbsp;&nbsp;&nbsp; (b) Should six (6) or more sitting members of Congress run for a position on a Select Committee, an election under the supervision of the Speaker of the House (or in the event of vacancy or absence, the President of the Senate; or should that office to be vacant or holder absent, the President pro Tempore) shall be held. The procedures and rules shall be at their discretion, however they may not disqualify any candidate without fair reason. 
+&nbsp;&nbsp;&nbsp; (b) Should six (6) or more sitting members of Congress run for a position on a Select Committee, an election under the supervision of the Speaker of the House (or in the event of vacancy or absence, the President of the Senate; or should that office to be vacant or holder absent, the President pro tempore) shall be held. The procedures and rules shall be at their discretion, however they may not disqualify any candidate without fair reason. 
 
 &nbsp;&nbsp;&nbsp; (c) Should less than six (6) members of Congress be running for a position of a Select Committee, then all candidates who meet the requirements shall be seated on the Select Committee.
 
