@@ -107,13 +107,13 @@ Mr. JoshLocke (for himself) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) A vote of Abstain shall be regarded as a declination to cast a vote of Aye or Nay.
 
-&nbsp;&nbsp;&nbsp; (c) For any vote of a Select Committee to be valid, a quorum of ½ of the Select Committee’s membership (excluding the Presiding Officer) must have cast a vote of Aye, Nay, or Abstain. Members who are present but do not cast any vote shall not be regarded as present for the purposes of quorum.
+&nbsp;&nbsp;&nbsp; (c) For any vote of a Select Committee to be valid, a quorum of ½ of the Select Committee’s membership (excluding the Chairperson) must have cast a vote of Aye, Nay, or Abstain. Members who are present but do not cast any vote shall not be regarded as present for the purposes of quorum.
 
-&nbsp;&nbsp;&nbsp; (d) For a ‘Simple Majority’ to be met, the count of the Ayes must be greater than the count of the Nays. In the event of a tie, the Presiding Officer shall cast a ‘tiebreaker’ wherein they decide if the Motion passes or fails.
+&nbsp;&nbsp;&nbsp; (d) For a ‘Simple Majority’ to be met, the count of the Ayes must be greater than the count of the Nays. In the event of a tie, the Chairperson shall cast a ‘tiebreaker’ wherein they decide if the Motion passes or fails.
 
 &nbsp;&nbsp;&nbsp; (e)  For a ‘supermajority’ to be met, ⅔ of the Ayes and Nays cast must be voting in affirmation of the Motion. 
 
-&nbsp;&nbsp;&nbsp; (f) The Select Committee shall have the authority to establish, amend, and/or repeal standing rules for the Select Committee with a simple majority vote. These standing rules may establish additional voting procedures, rules of conduct, etc. that regulate or limit the scope of the Select Committee or the authority of the Chairperson, except for restraining any power granted to the Select Committee or Presiding Officer by this Act.
+&nbsp;&nbsp;&nbsp; (f) The Select Committee shall have the authority to establish, amend, and/or repeal standing rules for the Select Committee with a simple majority vote. These standing rules may establish additional voting procedures, rules of conduct, etc. that regulate or limit the scope of the Select Committee or the authority of the Chairperson, except for restraining any power granted to the Select Committee or Chairperson by this Act.
 
 **§9 Requests to Appear Before a Select Committee**
 
