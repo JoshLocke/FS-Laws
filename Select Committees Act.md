@@ -6,9 +6,9 @@
 
 <p>F<small>ebruary</small> 11, 2023</p>
 
-(Credits to Clonemep & Jackfruitism for the original form of this act)
+(Credits to Clonemep, Jackfruitism, and Sharkfish82 for the original form of this act)
 
-Mr. JoshLocke (for himself) introduced the following Act:
+Mr. JoshLocke (for himself, Mr. Sharkfish82) introduced the following Act:
 
 ---
 
