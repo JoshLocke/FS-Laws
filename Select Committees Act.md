@@ -129,10 +129,6 @@ Mr. JoshLocke (for himself, Mr. Sharkfish82) introduced the following Act:
 
 &nbsp;&nbsp;&nbsp; (f) To dishonestly answer any question pertinent to the Select Committee’s official purpose shall be shall be punished as set by relevant law. Only members of the Select Committee may ask questions towards the individual testifying before the committee in proceedings.
 
-&nbsp;&nbsp;&nbsp; (g) Select Committees under this Act, with a super majority vote, shall have the authority to issue a subpoena for any individual relevant to the Select Committee’s stated purpose. Failure to respond and/or appear shall be punished by relevant statutes.
-
-&nbsp;&nbsp;&nbsp; (h) Upon the passage of a Motion to Issue a Subpoena, a detailed letter giving the location, and time of the questioning must be posted in a ‘topic’ or ‘thread’ on the Firestone Forums. Such topic/thread must include the name of the individual and ‘subpoena’ in the title, and outline that they are requested to appear before the Select Committee.
-
 **§10 Information Provided or Surrendered to a Select Committee**
 
 &nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to request any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
