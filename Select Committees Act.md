@@ -8,7 +8,7 @@
 
 (Credits to Clonemep, Jackfruitism, and Sharkfish82 for the original form of this act)
 
-Mr. JoshLocke (for himself, Mr. Sharkfish82) introduced the following Act:
+Mr. JoshLocke (for himself, Mr. Sharkfish82, Mr. FrostEspresso, Mr. AlexTheAviatorRBLX) introduced the following Act:
 
 ---
 
