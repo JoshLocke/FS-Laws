@@ -131,7 +131,7 @@ Mr. JoshLocke (for himself, Mr. Sharkfish82, Mr. FrostEspresso, Mr. AlexTheAviat
 
 **§10 Information Provided or Surrendered to a Select Committee**
 
-&nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to request any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
+&nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to order any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
 
 &nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, any person knowingly redacting or altering any information ordered by a Select Committee shall be punished as set by relevant law.
 
