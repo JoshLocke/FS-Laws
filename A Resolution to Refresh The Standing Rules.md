@@ -52,7 +52,7 @@ Mr. JoshLocke (for himself) introduced the following Resolution:
 
 <br/>
 
-**§6 Standing Rules**
+**§6 STANDING RULES**
 
 &nbsp;&nbsp;&nbsp; (a) The Senate Standing Rules Shall Be The Following: https://drive.google.com/file/d/1uTy6YRchlkourGeimAITg7P8Go3rtUrD/view?usp=share_link
 
