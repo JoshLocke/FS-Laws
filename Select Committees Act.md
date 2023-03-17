@@ -133,9 +133,9 @@ Mr. JoshLocke (for himself, Mr. Sharkfish82, Mr. FrostEspresso, Mr. AlexTheAviat
 
 &nbsp;&nbsp;&nbsp; (a) Select Committees under this Act, with a simple majority vote, shall have the authority to request any government department, executive agency, or other governmental body recognized by state, county, or municipal law, to provide copies of information, such as Discord channels, documentation, and/or records, except for where such information is classified or otherwise privileged under law and/or where the information under request has no bearing on the select committee’s stated purpose
 
-&nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, any person knowingly redacting or altering any information ordered by a Select Committee shall be punished as set by relevant law.
+&nbsp;&nbsp;&nbsp; (b) Except for where expressly permitted by state law or authorized by the Select Committee in a simple-majority vote, any person knowingly redacting or altering any information requested by a Select Committee shall be punished as set by relevant law.
 
-&nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the ordered information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members whether or not to honor the request.
+&nbsp;&nbsp;&nbsp; (c) A department, agency, or other governmental body head or the Governor may request the Select Committee keep the requested information confidential and to privately deliver this information to the Select Committee; however, it shall be at the discretion of the Select Committee and its members whether or not to honor the request.
 
 &nbsp;&nbsp;&nbsp; (d) A department, agency, or other governmental body head or the Governor may - within the scope of the law - volunteer classified information to a Select Committee. This information must remain classified and may only be distributed beyond the Select Committee if there is a lawful reason and within the scope of the law.
 
