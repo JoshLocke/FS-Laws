@@ -46,7 +46,7 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 **§5. DEFINITIONS**
 
-&nbsp;&nbsp;&nbsp; (a) The "Classification Act of 2023" shall be defined as
+&nbsp;&nbsp;&nbsp; (a) The "Classification Act of 2023" shall be defined as https://forums.stateoffirestone.com/t/classification-act-of-2023/25137
 
 &nbsp;&nbsp;&nbsp; (b) The "National Guard Act of 2022" shall be defined as https://forums.stateoffirestone.com/t/national-guard-act-of-2022/22640
 
