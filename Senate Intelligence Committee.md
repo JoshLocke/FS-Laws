@@ -73,8 +73,6 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) If ones term ends during these three (3) months, the chair appoint a replacement who shall serve the remainder of that term. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) A senator may only serve one (1) consecutive term as a member. Only fullly served 3 month terms will count towards a this. 
-
 &nbsp;&nbsp;&nbsp; (f) The operations of the committee shall be considedred "Top Secret" as established by the Classification Act of 2023.
  
 **§7 COMMITTEE PROCEEDINGS**
