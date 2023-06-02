@@ -50,9 +50,9 @@ Mr. JoshLocke (for himself, Mr. Jackfruitism, Mr. Donxld) introduced the followi
 
 &nbsp;&nbsp;&nbsp; (b) The "National Guard Act of 2022" shall be defined as https://forums.stateoffirestone.com/t/national-guard-act-of-2022/22640
 
-&nbsp;&nbsp;&nbsp; (c) The "Joint Standing Rules" shall be defined as:
+&nbsp;&nbsp;&nbsp; (c) The "Joint Standing Rules" shall be defined as: https://drive.google.com/file/d/1ktkG3RethvvDIp_WokxA9Jnyqt-cySgX/view
 
-&nbsp;&nbsp;&nbsp; (d) The "Senate Standing Rules" shall be defined as:
+&nbsp;&nbsp;&nbsp; (d) The "Senate Standing Rules" shall be defined as: https://drive.google.com/file/d/1V-Kk9zKBpihyxJF1sZoBzV9lnUcBGgv5/view
 
 
 <br/>
