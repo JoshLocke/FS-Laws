@@ -7,7 +7,7 @@
 <p>J<small>une</small> 01, 2023</p>
 
 
-Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
+Mr. JoshLocke (for himself, Mr. Jackfruitism, Mr. Donxld) introduced the following Resolution:
 
 ---
 
@@ -50,6 +50,10 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 &nbsp;&nbsp;&nbsp; (b) The "National Guard Act of 2022" shall be defined as https://forums.stateoffirestone.com/t/national-guard-act-of-2022/22640
 
+&nbsp;&nbsp;&nbsp; (c) The "Joint Standing Rules" shall be defined as:
+
+&nbsp;&nbsp;&nbsp; (d) The "Senate Standing Rules" shall be defined as:
+
 
 <br/>
 
@@ -61,7 +65,7 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Approving extensions of deployments up to 72 hrs as outlined in the National Guard Act of 2022
 
-&nbsp;&nbsp;&nbsp; (c) The committee and its members shall be cleared to view information labled "Top Secret", or "Secret" as established by the Classification Act of 2023. 
+&nbsp;&nbsp;&nbsp; (c) The committee and its members shall be cleared to view information labled "Top Secret", or "Secret" having any importance to National Guard deployments as established by the Classification Act of 2023. 
 
 &nbsp;&nbsp;&nbsp; (d) The committee shall be comprised of five (5) members in total, counting the chairperson. 
 
@@ -77,11 +81,18 @@ Mr. JoshLocke (for himself, Mr. ) introduced the following Resolution:
  
 **§7 COMMITTEE PROCEEDINGS**
 
-&nbsp;&nbsp;&nbsp; (a)
+&nbsp;&nbsp;&nbsp; (a) The committee chair may host sessions at any time. These sessions may be hosted via discord in the State Legislature discord, or within a private server of the State Capitol game. 
 
+&nbsp;&nbsp;&nbsp; (b) The Chair shall be permitted to run their session according to their standards, however, each member of the committee must be given an opportune chance to speak in regards to the topic at hand.
 
+&nbsp;&nbsp;&nbsp; (c) The committee shall meet in session at least once a month, recognizing all members of the committee and giving them time to speak. Items currently present on the docket should also be addressed if any are presently listed on it.
 
-**§00 Amendments**
+&nbsp;&nbsp;&nbsp; (d) Any member of the committee can propose a Committee Resolution. The Committee Resolution shall only be applied to the Senate Intelligence Committee, and can be of any request of any action the committee is able to take. A Committee Resolution must pass the committee with more than ½ in favor of the resolution. The Chair shall have the power to veto, however, the committee shall be able to override such veto with an appropriate motion. A Committee Resolution shall also be able to set fourth more rules.
+
+&nbsp;&nbsp;&nbsp; (e) Any motions outlined in the Senate or Joint Standing Rules may be used during session. 
+
+ 
+**§8 Amendments**
 
 &nbsp;&nbsp;&nbsp; (a) The National Guard Act of 2022 Section 14(c) currently states "Said deployment may be extended for up to 72 hours, with a super majority consent of the Senate."
 
