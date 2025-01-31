@@ -76,7 +76,7 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 **§7. Establishment of Titles**
 
-&nbsp;&nbsp;&nbsp; (a) Within the Firestone General Statutes there shall be 10 (ten) "Titles" established, which may be amended by an act of Congress. Each of these titles will house "Chapters" as established in §8 of this act. 
+&nbsp;&nbsp;&nbsp; (a) Within the Firestone General Statutes there shall be 10 (ten) "Titles" established, which may be amended by an act of Congress.
 
 &nbsp;&nbsp;&nbsp; (b) The Titles shall be sepereated into the following sections:
 
@@ -102,7 +102,32 @@ Mr. JoshLocke (for himself,) introduced the following Act:
 
 
 <br/>
+**§8. Establishment of Chapters**
 
+&nbsp;&nbsp;&nbsp; (a) Each title shall have "Chapters" within it for the purpose of organizing laws that fall under the Title's definition. 
+
+&nbsp;&nbsp;&nbsp; (b) Title i shall have the following chapters, which may be amended at any time by an act of Congress:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) General Provisions
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The Governor & His Office
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The Department of State
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The Department of Justice
+
+&nbsp;&nbsp;&nbsp; (c) Title ii shall have the following chapters, which may be amended at any time by an act of Congress:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) General Provisions
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) The Supreme Court
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The District Court
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) The General Rules of Procedure & Conduct 
+
+
+<br/>
 <div align="center">
  
  
